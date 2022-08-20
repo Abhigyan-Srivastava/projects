@@ -15,8 +15,6 @@ Also shows pretty programming icons using `devicons`.
 
 <figure>
   <img src= "images/screenshot.png" alt="project screenshot" style="width:100%">
-  <br/>
-  <figcaption align="center">Project Screenshot</figcaption>
 </figure>
 
 ## Demo
