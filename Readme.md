@@ -1,31 +1,28 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/projects">Projects</a></h1>
+<h1>Projects</a></h1>
 
-<a href="https://github.com/2KAbhishek/projects/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/projects?style=flat&color=eee&label="> </a>
+<h3>Showcase all your projects!!</h3>
+</div>
 
-<a href="https://github.com/2KAbhishek/projects/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/projects?style=flat&color=ffaaf2&label=People"> </a>
+## Introducing Projects
+Present all your projects in style with a super customizable web app! ✨
 
-<a href="https://github.com/2KAbhishek/projects/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/projects?style=flat&color=98c379&label=Stars"></a>
+`Projects` uses the GitHub API to list all your GitHub projects in a nice searchable grid.
+Also shows pretty programming icons using `devicons`.
 
-<a href="https://github.com/2KAbhishek/projects/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/projects?style=flat&color=66a8e0&label=Forks"> </a>
-
-<a href="https://github.com/2KAbhishek/projects/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/projects?style=flat&color=f5d08b&label=Watches"> </a>
-
-<a href="https://github.com/2KAbhishek/projects/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/projects?style=flat&color=e06c75&label="> </a>
-
-<h3>Showcase All Your Projects 🛍️🎇</h3>
+## Screenshot
 
 <figure>
-  <img src= "images/screenshot.png" alt="projects screenshot" style="width:100%">
+  <img src= "images/screenshot.png" alt="project screenshot" style="width:100%">
   <br/>
-  <figcaption>projects screenshot</figcaption>
+  <figcaption align="center">Project Screenshot</figcaption>
 </figure>
 
-</div>
+## Demo
+
+https://abhigyan-srivastava.github.io/projects/
+
+## Author
+
+- [@Abhigyan-Srivastava](https://github.com/Abhigyan-Srivastava)
